@@ -1,0 +1,1 @@
+-novid -tickrate 128 -refresh 144 +exec autoexec +cl_forcepreload 1 -nojoy -w 1024 -h 768
