@@ -31,6 +31,6 @@
 - show impacts = p
 
 ## Launch options
-##### Recommended launch options for playing cs. **_ Don't forget to change the refresh rate and resolution before using! _**
+Recommended launch options for playing cs. ** Don't forget to change the refresh rate and resolution before using! **
 
 
