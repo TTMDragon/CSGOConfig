@@ -1,7 +1,7 @@
-#Top CS:GO configs and launch options of 2019
+# Top CS:GO configs and launch options of 2019
 
-##Main config (autoexec.cfg)
-###List of features
+## Main config (autoexec.cfg)
+### List of features
 - current maximal cs:go rates
 - net graph while holing tab
 - music settings
@@ -13,7 +13,7 @@
 - performance fixes
 - other fixes
 
-###Default keybinds
+### Default keybinds
 - net graph = tab
 - voice mute = h
 - jumpthrow = mouse4
@@ -22,12 +22,12 @@
 - ggwp + disconect = f11
 - exec config = f8
 
-##Practice config (pracc.cfg)
-###List of features
+## Practice config (pracc.cfg)
+### List of features
 - enable decals
 - setup game for training / tesing (kick bots, unlimited money, buy everywhere, etc...)
 
-###Keybinds:
+### Keybinds:
 - show impacts = p
 
 
